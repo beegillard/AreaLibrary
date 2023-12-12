@@ -9,3 +9,4 @@
 /Users/betsygillard/Desktop/Projects/AreaLibrary/AreaLibrary/obj/Debug/net8.0/refint/AreaLibrary.dll
 /Users/betsygillard/Desktop/Projects/AreaLibrary/AreaLibrary/obj/Debug/net8.0/AreaLibrary.pdb
 /Users/betsygillard/Desktop/Projects/AreaLibrary/AreaLibrary/obj/Debug/net8.0/ref/AreaLibrary.dll
+/Users/betsygillard/Desktop/Projects/AreaLibrary/AreaLibrary/obj/Debug/net8.0/AreaLibrary.sourcelink.json

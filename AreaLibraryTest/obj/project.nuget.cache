@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "y18XEi/jx05e3qP8g+RKTjDujD/J2ToF9SIj3Duz51gCM3maA4Ivdgo36xbqd4eslQiEDkn7V9kOWiOQs56F5w==",
+  "success": true,
+  "projectFilePath": "/Users/betsygillard/Desktop/Projects/AreaLibrary/AreaLibraryTest/AreaLibraryTest.csproj",
+  "expectedPackageFiles": [
+    "/Users/betsygillard/.nuget/packages/coverlet.collector/6.0.0/coverlet.collector.6.0.0.nupkg.sha512",
+    "/Users/betsygillard/.nuget/packages/microsoft.codecoverage/17.6.0/microsoft.codecoverage.17.6.0.nupkg.sha512",
+    "/Users/betsygillard/.nuget/packages/microsoft.net.test.sdk/17.6.0/microsoft.net.test.sdk.17.6.0.nupkg.sha512",
+    "/Users/betsygillard/.nuget/packages/microsoft.testplatform.objectmodel/17.6.0/microsoft.testplatform.objectmodel.17.6.0.nupkg.sha512",
+    "/Users/betsygillard/.nuget/packages/microsoft.testplatform.testhost/17.6.0/microsoft.testplatform.testhost.17.6.0.nupkg.sha512",
+    "/Users/betsygillard/.nuget/packages/mstest.testadapter/3.0.4/mstest.testadapter.3.0.4.nupkg.sha512",
+    "/Users/betsygillard/.nuget/packages/mstest.testframework/3.0.4/mstest.testframework.3.0.4.nupkg.sha512",
+    "/Users/betsygillard/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/Users/betsygillard/.nuget/packages/nuget.frameworks/5.11.0/nuget.frameworks.5.11.0.nupkg.sha512",
+    "/Users/betsygillard/.nuget/packages/system.reflection.metadata/1.6.0/system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
