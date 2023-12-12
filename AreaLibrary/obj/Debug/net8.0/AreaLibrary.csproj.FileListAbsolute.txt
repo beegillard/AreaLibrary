@@ -1,0 +1,11 @@
+/Users/betsygillard/Desktop/Projects/AreaLibrary/AreaLibrary/bin/Debug/net8.0/AreaLibrary.deps.json
+/Users/betsygillard/Desktop/Projects/AreaLibrary/AreaLibrary/bin/Debug/net8.0/AreaLibrary.dll
+/Users/betsygillard/Desktop/Projects/AreaLibrary/AreaLibrary/bin/Debug/net8.0/AreaLibrary.pdb
+/Users/betsygillard/Desktop/Projects/AreaLibrary/AreaLibrary/obj/Debug/net8.0/AreaLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/betsygillard/Desktop/Projects/AreaLibrary/AreaLibrary/obj/Debug/net8.0/AreaLibrary.AssemblyInfoInputs.cache
+/Users/betsygillard/Desktop/Projects/AreaLibrary/AreaLibrary/obj/Debug/net8.0/AreaLibrary.AssemblyInfo.cs
+/Users/betsygillard/Desktop/Projects/AreaLibrary/AreaLibrary/obj/Debug/net8.0/AreaLibrary.csproj.CoreCompileInputs.cache
+/Users/betsygillard/Desktop/Projects/AreaLibrary/AreaLibrary/obj/Debug/net8.0/AreaLibrary.dll
+/Users/betsygillard/Desktop/Projects/AreaLibrary/AreaLibrary/obj/Debug/net8.0/refint/AreaLibrary.dll
+/Users/betsygillard/Desktop/Projects/AreaLibrary/AreaLibrary/obj/Debug/net8.0/AreaLibrary.pdb
+/Users/betsygillard/Desktop/Projects/AreaLibrary/AreaLibrary/obj/Debug/net8.0/ref/AreaLibrary.dll
